@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>ab504382-384b-4b58-97cf-f91d18ef7a4b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocuWare.Platform.ServerClient.Extensions" Version="11.0.2" />
+  </ItemGroup>
+
+
+</Project>
